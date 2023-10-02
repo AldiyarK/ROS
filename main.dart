@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//STATELESS WIDGET (SECTION 2)
+//STATEFULL WIDGET (SECTION 2)
 void main() {
   runApp(MyApp());
 }
